@@ -13,5 +13,7 @@
    * Patient's account will contain all his details, previous medical history etc.
    * The record of all the patients of that particular doctor will be shown to him. This way, the data is appropriately managed.
    
+   
+  https://github.com/avichalgautam/ino_ideas/issues/1#issue-418897182
                      
                      
